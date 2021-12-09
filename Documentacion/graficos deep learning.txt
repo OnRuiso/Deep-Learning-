@@ -1,0 +1,2 @@
+https://www.delftstack.com/es/howto/matplotlib/how-to-show-pyplot-grid-in-matplotlib/
+https://www.geeksforgeeks.org/grid-plot-in-python-using-seaborn/
